@@ -8,7 +8,7 @@ class Mochila:
 
 #Obtenemos el ratio calculado para ordenadarlo todo
     def __it__ (self, otro):
-        return self.report < otro.rapport
+        return self.report < otro
 
 def obtenerMaxValor (peso, valores, capacidad):
     arraySort = []

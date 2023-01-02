@@ -54,4 +54,3 @@ def find_shortest_path(prev_point_graph, end_point):
     shortest_path.reverse()
     return shortest_path
 
-print(find_shortest_path(0,0, (9,9)))
