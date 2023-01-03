@@ -1,4 +1,4 @@
-string = 'BCAADDDCCACACAC'
+string = 'HOLA ME LLAMO OSCAR Y SOY RUBIO'
 
 
 # Creating tree nodes
